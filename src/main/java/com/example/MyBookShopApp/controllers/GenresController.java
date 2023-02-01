@@ -16,9 +16,9 @@ public class GenresController {
     }
 
 
-     @GetMapping(value = "/homepage")
+/*     @GetMapping(value = "/homepage")
     public String returnToHomePage(Model model){
-        return mainPageController.mainPage(model);
+        return mainPageController.mainPage(model);*/
     }
 
 
