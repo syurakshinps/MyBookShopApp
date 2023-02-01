@@ -19,7 +19,7 @@ public class GenresController {
 /*     @GetMapping(value = "/homepage")
     public String returnToHomePage(Model model){
         return mainPageController.mainPage(model);*/
-    }
+//    }
 
 
 
