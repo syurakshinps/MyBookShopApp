@@ -27,8 +27,14 @@ public class MainPageController {
 
     @GetMapping("/genres")
     public String genresPage() {
-        return "genres/index";
+        return "/genres/index";
     }
 
+
+    @GetMapping("/authors")
+    public String authorsPage() {
+        return "/authors/index";
     }
+
+}
 
